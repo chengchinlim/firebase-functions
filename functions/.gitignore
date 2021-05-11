@@ -9,3 +9,5 @@ node_modules/
 lib/
 .idea/
 .DS_STORE
+
+config/
